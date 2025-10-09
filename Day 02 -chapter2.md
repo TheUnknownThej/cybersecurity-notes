@@ -20,4 +20,15 @@
 
 ---
 
+
+## Portfolio Project: Botium Toys Security Audit
+
+For a detailed view of my work on the Botium Toys audit, see the PDFs below:
+
+- [Risk Assessment]()  
+- [Controls & Compliance Checklist](botium-controls-checklist.pdf)
+
+---
+
+
 **Notes:** Chapter 2 introduces frameworks and audit concepts, bridging theory with hands-on application in the Botium Toys project.
