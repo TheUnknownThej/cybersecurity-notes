@@ -1,0 +1,19 @@
+## Day 07 – October 14
+
+**Course:** Google Cybersecurity – Course 4  
+**Progress:** Completed Module 3  
+
+**Learned About:**
+- Using the command line interface (CLI)  
+- Navigating and managing the file system  
+- Authenticating and authorizing users  
+- Accessing and managing resources  
+- Practiced Linux commands for permissions and user access  
+
+**Portfolio Project:**  
+- *File Permissions in Linux Exemplar* — practiced `chmod`, `ls -la`, and permission management  
+  [View PDF Report](../linux-projects/File%20permissions%20in%20Linux%20exemplar.pdf)
+
+
+**Key Takeaway:**  
+Got comfortable using CLI for real administrative tasks and understood how Linux manages permissions to enforce security.
