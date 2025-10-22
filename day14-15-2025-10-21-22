@@ -1,0 +1,22 @@
+## Day 14–15 – October 21–22  
+
+**Course:** Google Cybersecurity – Course 7 (Python Automation for Cybersecurity)  
+**Progress:** Completed Modules 1 to 4  
+
+**Learned About:**  
+- Basics of programming (variables, data types, conditional and iterative statements)  
+- Functions, modules, and libraries for code reusability  
+- Working with strings and lists  
+- Writing algorithms and using regular expressions for pattern searching  
+- Reading, writing, and parsing files  
+- Debugging code and automating file operations  
+
+**Portfolio Project:**  
+- *Update a File Through a Python Algorithm*  
+  [View Project PDF](../python-projects/Exemplar%20-%20Update%20a%20file%20through%20a%20Python%20algorithm.pdf)  
+
+**Key Takeaways:**  
+- Automated the process of updating an allow list by removing deprecated IP addresses from a text file.  
+- Practiced using `open()`, `.read()`, `.split()`, and `.write()` to handle file data in Python.  
+- Reinforced iteration and conditional logic within real-world scripting context.  
+- Learned how automation reduces manual errors and improves security efficiency.  
